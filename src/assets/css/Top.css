@@ -1,0 +1,41 @@
+.container {
+    width: 100%;
+
+    margin-top: 100px;
+}
+.top{
+    margin-left: 7%;
+}
+
+.path {
+    color: var(--Aurelius-Colours-Aurelius-Font-Colour, #4F4F4F);
+    font-family: Avenir;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 126.188%;
+    letter-spacing: 1.755px;
+    text-transform: uppercase;
+    opacity: 0.5;
+    text-decoration: none;
+}
+
+.title {
+    color: #2C914A;
+    font-family: Source Sans Pro;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 126.188%
+        /* 75.713px */
+    ;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.border {
+    width: 603px;
+    height: 1px;
+    background: #BB833A;
+    margin: auto;
+}

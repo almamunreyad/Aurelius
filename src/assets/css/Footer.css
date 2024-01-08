@@ -1,0 +1,104 @@
+.footer {
+    height: 381px;
+    background: #27312F;
+    width: 100%;
+    margin: auto;
+    display: flex;
+
+}
+
+.footer .left {
+    width: 45%;
+}
+
+.footer .right {
+    width: 45%;
+    margin-left: 100px;
+}
+
+.footer h5 {
+    color: var(--Aurelius-Colours-Aurelius-White, #FFF);
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 126.188%;
+    letter-spacing: 1.12px;
+    text-transform: uppercase;
+    margin-top: 100px;
+}
+
+.footer h1 {
+    color: var(--Aurelius-Colours-Aurelius-White, #FFF);
+    font-family: Source Sans Pro;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 145%;
+}
+
+.footer .ftr {
+    width: 50px;
+    height: 1px;
+    background: #BB833A;
+    margin-bottom: 30px;
+}
+
+.footer input {
+    padding: 12px 0px;
+    background: #27312F;
+    width: 50%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 1px solid white;
+    color: var(--Aurelius-Colours-Aurelius-White, #FFF);
+    font-family: Source Sans Pro;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 145%;
+
+}
+
+
+.footer a {
+    color: var(--Aurelius-Green, #2C924A);
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.28px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.bottomSection {
+    margin-bottom: 200px;
+    background: #27312F;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    border-top: 1px solid white;
+}
+
+.bottomSection h4 {
+    padding: 30px 30px;
+    display: block;
+    margin: auto;
+}
+
+.bottomSection a {
+    color: var(--Aurelius-Colours-Aurelius-White, #FFF);
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.54px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
